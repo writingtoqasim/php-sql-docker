@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    label "any"
+    label "Built-In"
   }
   stages {
     stage ('Run Docker Compose') {
