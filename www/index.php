@@ -15,7 +15,7 @@
 	<?php echo "<h3>This is Docker container deployment through jenkins!</h3>"; ?>
 
     <?php
-    $conn = mysqli_connect('db', 'ranjit', 'ranjit', "myDb");
+    $conn = mysqli_connect('db', 'qasim', 'qasim', "myDb");
     $query = 'SELECT * From Person';
     $result = mysqli_query($conn, $query);
     echo '<table class="table table-striped">';
