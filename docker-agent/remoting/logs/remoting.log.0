@@ -1,10 +1,10 @@
-Aug 25, 2023 8:31:00 PM hudson.remoting.jnlp.Main createEngine
+Aug 27, 2023 9:50:27 PM hudson.remoting.jnlp.Main createEngine
 INFO: Setting up agent: docker-agent
-Aug 25, 2023 8:31:00 PM hudson.remoting.Engine startEngine
+Aug 27, 2023 9:50:27 PM hudson.remoting.Engine startEngine
 INFO: Using Remoting version: 3131.vf2b_b_798b_ce99
-Aug 25, 2023 8:31:00 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+Aug 27, 2023 9:50:27 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
 INFO: Using /home/writingtoqasim/php-sql-docker/./docker-agent/remoting as a remoting work directory
-Aug 25, 2023 8:31:01 PM hudson.remoting.jnlp.Main$CuiListener status
+Aug 27, 2023 9:50:28 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: WebSocket connection open
-Aug 25, 2023 8:31:01 PM hudson.remoting.jnlp.Main$CuiListener status
+Aug 27, 2023 9:50:28 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Connected
