@@ -17,11 +17,16 @@
 
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
     <?php echo "<h1>jenkins</h1>"; ?>
 =======
     <?php echo "<h1>Hi|Welcome</h1>"; ?>
 >>>>>>> parent of ec022ed (Revert "hi|welcome")
 >>>>>>> parent of 84c5956 (Revert "jenkins")
+=======
+    <?php echo "<h1>Hi and Welcome</h1>"; ?>
+>>>>>>> parent of 092932a (hi|welcome)
+>>>>>>> parent of d51c6e0 (Revert "Revert "hi|welcome"")
 	<?php echo "<h3>This is Docker container deployment through jenkins!</h3>"; ?>
 
     <?php
