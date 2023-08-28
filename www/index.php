@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Docker</title>
+  <title>jenkins</title>
 
   <meta charset="utf-8">
 
@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container">
-    <?php echo "<h1>Hi and Welcome</h1>"; ?>
+    <?php echo "<h1>jenkins</h1>"; ?>
 	<?php echo "<h3>This is Docker container deployment through jenkins!</h3>"; ?>
 
     <?php
