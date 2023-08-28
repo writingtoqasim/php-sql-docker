@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>hello | Docker</title>
+  <title>Docker</title>
 
   <meta charset="utf-8">
 
