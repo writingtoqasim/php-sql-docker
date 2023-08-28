@@ -11,15 +11,9 @@
 </head>
 <body>
     <div class="container">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <?php echo "<h1>jenkins</h1>"; ?>
-=======
+
     <?php echo "<h1>Hi|Welcome</h1>"; ?>
->>>>>>> parent of ec022ed (Revert "hi|welcome")
-=======
-    <?php echo "<h1>Hi and Welcome</h1>"; ?>
->>>>>>> parent of 4ba3d68 (jenkins)
+
 	<?php echo "<h3>This is Docker container deployment through jenkins!</h3>"; ?>
 
     <?php
