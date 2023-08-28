@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hi in hellos
+=======
+>>>>>>> parent of 1b7408f (hello.txt 2nd time)
