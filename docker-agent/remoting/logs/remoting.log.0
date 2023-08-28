@@ -1,39 +1,10 @@
-Aug 27, 2023 9:50:27 PM hudson.remoting.jnlp.Main createEngine
+Aug 28, 2023 10:34:34 AM hudson.remoting.jnlp.Main createEngine
 INFO: Setting up agent: docker-agent
-Aug 27, 2023 9:50:27 PM hudson.remoting.Engine startEngine
+Aug 28, 2023 10:34:34 AM hudson.remoting.Engine startEngine
 INFO: Using Remoting version: 3131.vf2b_b_798b_ce99
-Aug 27, 2023 9:50:27 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+Aug 28, 2023 10:34:34 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
 INFO: Using /home/writingtoqasim/php-sql-docker/./docker-agent/remoting as a remoting work directory
-Aug 27, 2023 9:50:28 PM hudson.remoting.jnlp.Main$CuiListener status
+Aug 28, 2023 10:34:34 AM hudson.remoting.jnlp.Main$CuiListener status
 INFO: WebSocket connection open
-Aug 27, 2023 9:50:28 PM hudson.remoting.jnlp.Main$CuiListener status
+Aug 28, 2023 10:34:34 AM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Connected
-Aug 27, 2023 10:52:55 PM hudson.remoting.jnlp.Main$CuiListener status
-INFO: Read side closed
-Aug 27, 2023 10:52:55 PM hudson.remoting.jnlp.Main$CuiListener status
-INFO: Terminated
-Aug 27, 2023 10:53:06 PM hudson.remoting.jnlp.Main$CuiListener status
-INFO: http://localhost:8080/login is not ready
-java.net.ConnectException: Connection refused (Connection refused)
-	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
-	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
-	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
-	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
-	at java.base/java.net.Socket.connect(Socket.java:609)
-	at java.base/java.net.Socket.connect(Socket.java:558)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:509)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
-	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:277)
-	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:376)
-	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:397)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1253)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1015)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
-	at hudson.remoting.Engine.runWebSocket(Engine.java:702)
-	at hudson.remoting.Engine.run(Engine.java:499)
-

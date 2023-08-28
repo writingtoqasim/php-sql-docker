@@ -5,7 +5,7 @@ pipeline {
   stages {
     stage ('Run Docker Compose') {
       steps{
-        sh 'docker-compose  down'
+        sh 'docker-compose down'
       }
     }
   }
